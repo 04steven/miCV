@@ -1,0 +1,16 @@
+.izq{
+    background-color: rgb(255, 255, 255);
+}.der{
+    background-color: rgb(255, 255, 255);
+}
+.img-fluid{
+    border-radius: 100px;
+    width: 400px;
+    height: 300px;
+}
+#Contacto{
+    text-align: left;
+}
+.fab{
+    align-items: center;
+}
